@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project name="FireLord1/android_device_lenovo_kuntao"      	        path="device/lenovo/kuntao"			remote="github" revision="cm-14.1" />
+	<project name="FireLord1/android_vendor_lenovo_kuntao"      	        path="vendor/lenovo/kuntao"			remote="github" revision="cm-14.1" />
+        <project name="FireLord1/android_kernel_lenovo_msm8953"       		path="kernel/lenovo/msm8953" 			remote="github" revision="cm-14.1" />
+	<project name="LineageOS/android_device_qcom_common"               	path="device/qcom/common" 			remote="github" revision="cm-14.1" />
+</manifest>
